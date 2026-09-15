@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rikel/OneDrive/Documentos/GitHub/Lingugagem-C",
-      "program": "c:/Users/rikel/OneDrive/Documentos/GitHub/Lingugagem-C/build/Debug/outDebug",
+      "cwd": "c:/Users/rikel/OneDrive/Documentos/GitHub/Lingugagem-C/.vscode",
+      "program": "c:/Users/rikel/OneDrive/Documentos/GitHub/Lingugagem-C/.vscode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

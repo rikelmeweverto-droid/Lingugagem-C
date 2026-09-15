@@ -4,18 +4,18 @@
   int main() {
       
     printf("Inializando sistema animado...\n");
-    sleep(1000);
+    Sleep(1000);
     printf("Sistema inicializado com sucesso!\n");
-    sleep(1000);
+    Sleep(1000);
     printf("[*] Conectando Banco de dados...\n");
-    sleep(1000);
+    Sleep(1000);
     printf("[*]Carregando modulo de leitura do QRcode\n");
-    sleep(1000);
+    Sleep(1000);
     printf("[*]Sincronizando dados...\n"); 
-    sleep(1000);
+    Sleep(1000);
 
     system("cls");
-    
+
     printf("=======================================\n");
     printf(" SISTEMA FERRALOG - INVENTÁRIO\n");
     printf("=======================================\n");
@@ -26,4 +26,6 @@
     printf("3 - Verificar o status de garantia\n");
     printf("4 - Sair do sistema\n");
 
-  }
+    //
+
+  } 
